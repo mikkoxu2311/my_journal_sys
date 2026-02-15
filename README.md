@@ -1,5 +1,5 @@
 # my_journal_sys
-My journal system w/ Claude Code skill
+A journal system templates works with Claude Code skill
 
 ## 🎯 系统概览
 
@@ -9,7 +9,7 @@ My journal system w/ Claude Code skill
 - ✅ 将想法转化为行动（真正改变）
 
 ```
-Layer 1: 快速捕获层 → Layer 2: 提炼加工层 → Layer 3: 激活应用层
+Layer 1: 快速捕获层 → Layer 2: 提炼加工层 → Layer 3: 应用层
    (每日记录)           (每周处理)            (持续行动)
 ```
 
